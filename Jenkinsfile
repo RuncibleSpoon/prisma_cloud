@@ -11,6 +11,7 @@
       }
     }
 
+    /*
     stage ('Prisma Cloud scan') {
       twistlockScan ca: '',
                     cert: '',
@@ -36,5 +37,6 @@
                        logLevel: 'true',
                        timeout: 10
     }
-
+  */
+  
   }
